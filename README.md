@@ -36,4 +36,4 @@ In case you use linux - ```./csvreader file.csv```
 ```
 bash tests.sh
 ```
-![](https://github.com/cath-syngee/CSVreader/blob/main/example.png)
+![](https://github.com/cath-syngee/CSV-Reader/blob/master/example.png)
