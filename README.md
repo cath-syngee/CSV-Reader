@@ -27,9 +27,7 @@ g++ Source.cpp CSVreader.cpp -o csvreader
 or simply use `make`
 
 ### To run:
-This program reads only one file at a time, otherwise you get the `amount of files is incorrect` message
-If you want to run on windows - ```csvreader.exe file.csv```
-In case you use linux - ```./csvreader file.csv```
+This program reads only one file at a time, otherwise you get the `amount of files is incorrect` message. If you want to run on windows - ```csvreader.exe file.csv```. In case you use linux - ```./csvreader file.csv```
 
 ### To run tests on linux:
 ```
