@@ -1,6 +1,5 @@
 # CSV reader
-This program reads CSV file, calculates cell values if necessary, and outputs the resulting table to the console
-The cells may contain integer numbers and expressions like `= ARG1 OP ARG2`, where:
+This program reads CSV file, calculates cell values if necessary, and outputs the resulting table to the console. The cells may contain integer numbers and expressions like `= ARG1 OP ARG2`, where:
 - `ARG1` and `ARG2` are integers or cell addresses in the format Column_Name Row_Number
 - `OP` is an arithmetic operation such as +, -, *, /
 
